@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BakeliAlpha</string>
+    <string name="hello">Hello World, TroimsActivity!</string>
+    <string name="premier">Alpha Dev Django</string>
+    <string name="second">Saidou Dev Spring Boot</string>
+
+</resources>
